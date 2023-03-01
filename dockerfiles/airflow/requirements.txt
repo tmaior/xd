@@ -1,0 +1,9 @@
+tqdm
+mlflow
+dvc
+scikit-learn
+sdv==0.18.0
+sdmetrics
+kaleido
+pdfkit
+beautifulsoup4
